@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qlbh", "qlbh\qlbh.csproj", "{2F35A884-7123-40C8-B334-ED93EAF3487E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F35A884-7123-40C8-B334-ED93EAF3487E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F35A884-7123-40C8-B334-ED93EAF3487E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F35A884-7123-40C8-B334-ED93EAF3487E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2F35A884-7123-40C8-B334-ED93EAF3487E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F35A884-7123-40C8-B334-ED93EAF3487E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F35A884-7123-40C8-B334-ED93EAF3487E}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D274DA56-6586-431F-9D91-4EC77E6EA2D9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,83 @@
+D:\qlbh\qlbh\bin\Debug\qlbh.exe.config
+D:\qlbh\qlbh\bin\Debug\qlbh.exe
+D:\qlbh\qlbh\bin\Debug\qlbh.pdb
+D:\qlbh\qlbh\obj\Debug\qlbh.Properties.Resources.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.csproj.GenerateResource.Cache
+D:\qlbh\qlbh\obj\Debug\qlbh.exe
+D:\qlbh\qlbh\obj\Debug\qlbh.pdb
+D:\qlbh\qlbh\obj\Debug\qlbh.Main.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.FormDangnhap.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.Form1.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.FormHoadon.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.FormKhachhang.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.FormNhanVien.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.TimKiemHD.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.FormNCC.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.HangHoa.resources
+D:\qlbh\qlbh\obj\Debug\Interop.Office.dll
+D:\qlbh\qlbh\obj\Debug\qlbh.csproj.ResolveComReference.cache
+D:\qlbh\qlbh\obj\Debug\qlbh.csprojResolveAssemblyReference.cache
+D:\qlbh\qlbh\obj\Debug\qlbh.RePass.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.FormBaoCao.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.FormThongTin.resources
+D:\qlbh\qlbh\obj\Debug\qlbh.BCThongKe.resources
+D:\qlbh\qlbh\obj\Debug\RdlCompile.cache
+D:\qlbh\qlbh\obj\Debug\RdlCompile.compiled
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\qlbh.exe.config
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\Interop.Office.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.exe
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.pdb
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\qlbh.exe
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\qlbh.pdb
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.BCThongKe.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.Form1.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormBaoCao.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormHoadon.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormKhachhang.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormNCC.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormNhanVien.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormThongTin.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormDangnhap.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.HangHoa.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.Main.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.Properties.Resources.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.RePass.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.TimKiemHD.resources
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.CopyComplete
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\Interop.Office.dll
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.ResolveComReference.cache
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.Form1.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormBaoCao.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormHoadon.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormKhachhang.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormNCC.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormNhanVien.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormThongTin.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormDangnhap.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.HangHoa.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.Main.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.Properties.Resources.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.RePass.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.TimKiemHD.resources
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.GenerateResource.cache
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.CoreCompileInputs.cache
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\qlbh.exe.config
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\qlbh.exe
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\qlbh.pdb
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.CopyComplete
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.exe
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.pdb
