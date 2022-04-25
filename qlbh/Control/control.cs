@@ -12,6 +12,7 @@ namespace qlbh.Control
     class control
     {
         //kết nối
+        
         public static SqlConnection Con;//tạo phương thức connect
         public static void Connect()
         {
@@ -215,7 +216,5 @@ namespace qlbh.Control
             return chuoi + " đồng";
         }  
         //Hàm tạo khóa có dạng: TientoNgaythangnam_giophutgiay
-        
-
     }
 }

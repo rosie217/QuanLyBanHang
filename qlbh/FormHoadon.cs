@@ -9,14 +9,15 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using qlbh.Control;
-using COMExcel = Microsoft.Office.Interop.Excel;
-
+using CrystalDecisions.CrystalReports.Engine;
+using System.IO;
 
 namespace qlbh
 {
     public partial class FormHoadon : Form
     {
         DataTable tblCTHDB; //Bảng chi tiết hoá đơn bán
+        control c = new control();
         public FormHoadon()
         {
             control.Connect();
@@ -393,7 +394,9 @@ namespace qlbh
         #region in hóa đơn
         private void btnInHoaDon_Click(object sender, EventArgs e)
         {
-
+            FromCrystal f = new FromCrystal();
+            f.MaHD = txtMaHDBan.Text;
+            f.Show();
         }
         #endregion
         #region xóa

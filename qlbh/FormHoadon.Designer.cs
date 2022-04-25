@@ -41,6 +41,7 @@
             this.txtTenNhanVien = new System.Windows.Forms.TextBox();
             this.cboMaNhanVien = new System.Windows.Forms.ComboBox();
             this.txtNgayBan = new System.Windows.Forms.DateTimePicker();
+            this.txtMaHDBan = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
@@ -77,7 +78,6 @@
             this.btnLuu = new System.Windows.Forms.Button();
             this.btnXoa = new System.Windows.Forms.Button();
             this.btnThem = new System.Windows.Forms.Button();
-            this.txtMaHDBan = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -226,6 +226,14 @@
             this.txtNgayBan.Name = "txtNgayBan";
             this.txtNgayBan.Size = new System.Drawing.Size(180, 20);
             this.txtNgayBan.TabIndex = 9;
+            // 
+            // txtMaHDBan
+            // 
+            this.txtMaHDBan.Location = new System.Drawing.Point(174, 32);
+            this.txtMaHDBan.Name = "txtMaHDBan";
+            this.txtMaHDBan.ReadOnly = true;
+            this.txtMaHDBan.Size = new System.Drawing.Size(180, 20);
+            this.txtMaHDBan.TabIndex = 8;
             // 
             // label10
             // 
@@ -584,15 +592,6 @@
             this.btnThem.Text = "&Thêm hóa đơn";
             this.btnThem.UseVisualStyleBackColor = false;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
-            // 
-            // txtMaHDBan
-            // 
-            this.txtMaHDBan.Location = new System.Drawing.Point(174, 32);
-            this.txtMaHDBan.Name = "txtMaHDBan";
-            this.txtMaHDBan.ReadOnly = true;
-            this.txtMaHDBan.Size = new System.Drawing.Size(180, 20);
-            this.txtMaHDBan.TabIndex = 8;
-      
             // 
             // FormHoadon
             // 

@@ -60,7 +60,6 @@ C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.CopyComplete
 F:\code c#\qlbh\qlbh\qlbh\obj\Debug\Interop.Office.dll
 F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.ResolveComReference.cache
-F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.Form1.resources
 F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormBaoCao.resources
 F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormHoadon.resources
 F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FormKhachhang.resources
@@ -81,3 +80,23 @@ F:\code c#\qlbh\qlbh\qlbh\bin\Debug\qlbh.pdb
 F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.csproj.CopyComplete
 F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.exe
 F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.pdb
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\AxShockwaveFlashObjects.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.Shared.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\ShockwaveFlashObjects.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\stdole.dll
+F:\code c#\qlbh\qlbh\qlbh\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\code c#\qlbh\qlbh\qlbh\obj\Debug\qlbh.FromCrystal.resources
